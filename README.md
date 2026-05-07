@@ -54,5 +54,10 @@ As an administrator, I want to delete inappropriate recipes so that I can mainta
 
 ---
 
+## Wireframe
+
+The wireframe of my Recipehub application is available here:
+[Figma wireframe](https://www.figma.com/design/IGkveEBCWSQuVl3cURD0oG/MyRecipeHub?node-id=0-1&p=f&t=DYaOFPYAvdKdxIKO-0)
+
 ##  Author
 Project developed by **Yvan** as part of the *Web Programming* course.
